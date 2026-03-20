@@ -1,16 +1,14 @@
-## Hi there 👋
+# ¡Hola! Soy Erik Emmanuel Arellano Cruz 👋
 
-<!--
-**erikarellanopm25256-source/erikarellanopm25256-source** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👽 sobre mi
+- 🏫 Actualmente estoy estudiando en el Colegio de Estudios Cientificos y Tecnologicos del estado de de campeche plantel pomuch en la especialidad de programacion. 
+- 📚 Estoy aprendiendo a programar en el lenguaje de python y a utilizar la terminal en Linux Mint.
 
-Here are some ideas to get you started:
+### 🔨🎒 Herramientas en mi mochila
+-**sistemas** Linux Mint
+-**Control de verciones:** Git y GitHub
+-**Aprendiendo ahora:** Logica de programacion
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+*"Mi trabajo en una sola linea: deprimente"*
